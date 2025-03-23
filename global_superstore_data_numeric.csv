@@ -1,0 +1,51 @@
+Country,Year,Product Category,Product Sub-category,Sales Revenue,Profit,Discount (%),Customer Return Rate (%),Repeat Customers (%),Customer Satisfaction Score,Shipping Cost,Shipping Latency (Days)
+India,2016,Electronics,Paper,266688,16411,21.59,14.22,22.92,4,88.04,1
+France,2014,Office Supplies,Phones,306951,7911,5.13,11.83,41.81,8,60.57,7
+UK,2017,Office Supplies,Desks,143264,72270,9.02,2.85,20.83,2,31.47,9
+Brazil,2015,Furniture,Paper,296458,88763,18.72,12.69,27.56,3,71.19,4
+India,2017,Electronics,Laptops,338880,13680,22.3,19.81,13.14,1,76.59,4
+Japan,2015,Office Supplies,Laptops,275281,89896,21.3,3.66,11.01,1,31.44,6
+Germany,2015,Furniture,Laptops,162859,88879,10.61,10.85,48.51,3,44.0,3
+India,2017,Office Supplies,Laptops,424325,76295,22.8,17.67,43.44,5,58.09,6
+UK,2018,Office Supplies,Laptops,444070,93614,10.93,15.07,37.84,3,54.69,7
+Brazil,2015,Electronics,Paper,402228,16111,13.13,14.24,26.36,1,45.07,3
+France,2015,Office Supplies,Paper,481839,42504,23.66,14.35,16.93,1,36.79,7
+UK,2017,Electronics,Pens,319536,6802,21.24,7.83,16.26,8,19.0,3
+UK,2015,Office Supplies,Chairs,367824,13155,26.23,6.58,20.01,10,14.81,2
+Germany,2015,Furniture,Laptops,307426,78656,21.44,16.38,31.97,2,96.27,4
+China,2017,Office Supplies,Phones,227789,44384,19.21,16.39,38.58,3,86.24,8
+Brazil,2017,Electronics,Paper,268164,52254,7.34,17.47,36.41,2,41.94,9
+Canada,2014,Electronics,Phones,363003,26918,14.19,18.35,21.2,3,96.11,7
+UK,2018,Furniture,Phones,175657,90981,11.63,10.72,48.19,7,70.91,1
+China,2018,Office Supplies,Phones,285167,65713,11.1,10.53,39.52,1,53.43,3
+Canada,2015,Office Supplies,Pens,207381,35306,29.33,16.17,32.17,10,54.37,9
+Brazil,2018,Furniture,Paper,244806,21646,14.83,13.35,34.47,8,17.5,1
+USA,2015,Office Supplies,Phones,120467,51843,27.3,14.34,26.78,10,18.25,9
+Japan,2014,Office Supplies,Laptops,233734,95735,20.78,16.12,19.91,10,64.22,8
+China,2017,Electronics,Desks,148506,21371,24.87,17.91,24.24,10,59.83,1
+Australia,2017,Office Supplies,Phones,159751,82371,17.57,7.42,40.31,2,29.15,6
+USA,2017,Office Supplies,Pens,431050,7049,19.42,8.14,10.58,3,95.16,5
+Japan,2018,Furniture,Paper,455904,36616,17.31,2.79,14.64,9,80.32,6
+Germany,2014,Furniture,Pens,337486,25932,9.88,11.99,11.84,7,20.21,5
+India,2018,Electronics,Phones,218229,34855,23.06,1.68,11.63,4,93.78,6
+France,2018,Office Supplies,Paper,418452,66434,12.02,9.85,44.22,10,97.68,5
+Australia,2014,Office Supplies,Desks,495299,77694,5.61,11.31,38.15,5,99.63,5
+Germany,2014,Office Supplies,Phones,156081,48016,21.14,6.44,28.97,2,15.03,4
+Brazil,2014,Electronics,Pens,139045,12400,9.43,12.23,13.91,8,76.33,3
+Germany,2014,Electronics,Chairs,84698,47642,28.51,1.58,29.66,4,59.13,3
+India,2017,Furniture,Laptops,160078,20151,28.85,1.71,28.94,9,73.52,4
+Brazil,2016,Electronics,Pens,392767,56407,27.87,16.63,16.93,5,97.18,9
+Australia,2016,Office Supplies,Paper,72671,71690,14.25,7.84,27.35,9,71.92,2
+India,2014,Office Supplies,Phones,468400,9499,5.39,3.41,25.94,4,85.33,9
+Canada,2016,Electronics,Laptops,405528,11295,28.21,10.92,34.63,10,88.02,1
+France,2016,Office Supplies,Phones,485323,64040,15.7,15.63,35.4,5,85.46,1
+Australia,2014,Office Supplies,Paper,136202,17183,29.17,5.1,11.81,9,48.35,5
+Canada,2016,Electronics,Phones,101663,34299,29.09,12.83,24.98,8,30.03,6
+Japan,2018,Electronics,Chairs,65708,17874,26.33,2.62,35.03,3,45.7,6
+Australia,2015,Office Supplies,Laptops,404050,37711,12.36,1.98,30.13,1,90.27,3
+Japan,2015,Office Supplies,Laptops,361955,10539,14.63,11.1,44.26,3,23.19,7
+Brazil,2014,Office Supplies,Paper,183883,58351,26.28,11.27,36.35,4,56.2,9
+Canada,2017,Furniture,Chairs,368394,66267,12.92,13.11,16.52,2,30.99,8
+France,2014,Furniture,Pens,162547,53354,9.24,14.8,12.82,1,62.32,6
+India,2017,Furniture,Phones,436393,7557,18.92,19.54,35.7,7,87.68,8
+UK,2015,Electronics,Desks,84754,43360,28.4,10.81,11.06,8,89.23,5
